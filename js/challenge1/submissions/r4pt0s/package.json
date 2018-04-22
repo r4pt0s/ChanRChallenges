@@ -1,0 +1,15 @@
+{
+  "name": "jshomework3",
+  "version": "1.0.0",
+  "description": "Second Challenge for ChanR ZtoM Group.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishov Chatterjee",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5"
+  }
+}
